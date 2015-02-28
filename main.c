@@ -22,9 +22,8 @@ int main(int argc, char** argv) {
     printf("\n");
     printf("I maggiorenni sono: %d\n", maggiorenni);
     return (EXIT_SUCCESS);
-    return (EXIT_SUCCESS);
 }
-
+    
 int selezionePersone(int persone[], int dimensione) {
     int selezionati=0;
     int i=0;
